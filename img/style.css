@@ -1,0 +1,41 @@
+h1 {
+font-family: 'Lobster', cursive;
+color: violet;
+margin-left:  17px;
+margin-bottom: 5px;
+}
+
+
+hr {
+width: 100px;
+border: 2px solid violet;
+margin-left: 17px;
+margin-top: 5px;
+}
+
+
+div {
+  float: left;
+
+}
+
+
+img {
+width: 200px;
+height: 230px;
+margin: 13px;
+}
+
+
+p {
+font-family: 'Lobster', cursive;
+color: orange;
+font-size: 18px;
+position: absolute;
+margin-top:  215px;
+margin-left: 80px;
+}
+
+img:hover {
+opacity: 0.5;
+}
